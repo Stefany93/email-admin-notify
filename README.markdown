@@ -1,12 +1,8 @@
 #Email notification on admin login
-Contributors: Azumi93
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QKPPZSQYBU7KS
-Tags: email notify on admin login, admin login notification, email notification
-Requires at least: 3.0.1
-Tested up to: 3.9.1
-Stable tag: 4.3
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+###Requires at least: 3.0.1
+###Tested up to: 3.9.1
+###License: GPLv2 or later
+###License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
  Sends an email to a pointed email address when an admin user logs in
 
@@ -31,7 +27,7 @@ How to install this plugin?
 ### I am not getting an email when a user logs in as an admin 
 
 That's because the default email address is the one you entered when you installed your WordPress
-and you no longer use the email in question, or at least not to often.
+and you no longer use the email in question, or at least not too often.
 
 ###Can I change the email address the notifications are being sent to?
 
@@ -48,7 +44,7 @@ instead of the email you installed your WordPress with.
 
 ### I messed things up, how can I fix everything? 
 
-Pre-install and plugin and stop pretending to be a programmer.
+Pre-install the plugin and stop pretending to be a programmer.
 
 ### This is an awesome plugin, how can I thank Stefany?
 
